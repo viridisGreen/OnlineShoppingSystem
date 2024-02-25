@@ -1,0 +1,5 @@
+shx0001 孙鹤翔 1 12345678901 shx0001 sunhexiang@bupt.edu.cn 北京邮电大学沙河校区 0.01
+dqp0002 杜青芃 0 12345678902 dqp0002 duqingpeng@bupt.edu.cn 火星 0.10
+whs0003 王鹤松 1 12345678903 whs0003 wanghesong@bupt.edu.cn 北京邮电大学沙河校区 1.00
+wyh0004 王彦涵 0 12345678904 wyh0004 wangyanhan@bupt.edu.cn 北京邮电大学沙河校区 10.00
+zjy0005 曾俊言 1 12345678905 zjy0005 zengjunyan@bupt.edu.cn 北京邮电大学沙河校区 100.00
